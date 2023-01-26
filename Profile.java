@@ -5,5 +5,6 @@ public class Profile {
 	System.out.println("Name: Jana Barhouche ");
 	System.out.println("Major: Computer Engineering");
 	System.out.println("Year of Study: 2023");
+	System.out.println("Hobby: reading");
 	}
 } 
